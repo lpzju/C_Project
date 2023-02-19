@@ -7,5 +7,6 @@ int main(){
     printf("字符串常量的地址为:%p\n",arr1);
     printf("字符串数组的地址为:%p\n",arr2);
     printf("字符串数组的地址为:%p\n",arr3);
+    printf("直接输出字符串的地址为:%p\n","Hello");
     return 0;
 }
