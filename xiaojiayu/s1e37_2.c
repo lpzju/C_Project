@@ -6,5 +6,7 @@ int main(){
     char *temp = NULL;
     temp = (char *)malloc(6 * 1024LL * 1024 * 1024 * sizeof(char));
     printf("%d\n",temp == NULL);
+    temp = (char *)malloc(5 * 1024LL * 1024 * 1024 * sizeof(char));
+    printf("%d\n",temp == NULL);
     return 0;
 }
