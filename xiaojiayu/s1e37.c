@@ -13,6 +13,7 @@ int main(){
         temp = (char *)malloc(1024LL * 1024 * 1024 * sizeof(char));
         printf("count = %d\n",count);
         count++;
+        free(temp);
     }
     // temp = malloc(1024LL  * 1024 * 1024);
     printf("%d\n",temp == NULL);

@@ -23,5 +23,7 @@ void output(Stu *stu){
 
 int main(){
     Stu stu[5];
-
+    input(stu);
+    output(stu);
+    return 0;
 }

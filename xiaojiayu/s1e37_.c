@@ -20,7 +20,7 @@ int main(void)
                         if (block)
                         {
                                 maximum += blocksize[i] * count;
-                                // free(block);
+                                free(block);
                         }
                         else
                         {
