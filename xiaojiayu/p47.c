@@ -54,7 +54,7 @@ void add(List *list, int number){
                 p -> next = list -> head;
                 list -> head = p;
             }else{
-                while ((tmp -> value) < number) {
+                while ((tmp -> value) < number) { // 其实可以在循环的时候再进行判断，可以写的清晰一点
                     before = tmp;
                     tmp = tmp -> next;
                     // printf("before :%d\n",before -> value);
