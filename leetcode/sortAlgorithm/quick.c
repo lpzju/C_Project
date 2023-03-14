@@ -5,29 +5,30 @@
 #include <stdio.h>
 
 void quickSort(int *arr, int left, int right) {
-    // 想清楚思路再动笔
-    // 首先，单次的排序中，left往右，right往左，直到碰见给定的值，比如取中间值arr[4]=6
-    // 那么左边第一次是在2的位置，即arr[2]=7，同理，右边是arr[8]=3处，交换两数
-    // 然后是arr[4]=6，与arr[7]=0，进行交换
-    // 再然后是left=5,right=6
-    // 最后left和right出局
+    int i = left;
+    int j = right;
     int pivot = arr[left+(right-left)/2];
-    while (left < right) {
-        while (arr[left] < pivot) {
-            left++;
+    while (i < j) {
+        while (arr[i] < pivot) {
+            i++;
         }
-        while (arr[right] > pivot) {
-            right--;
+        while (arr[j] > pivot) {
+            j--;
         }
-        if (left <= right) {
-            int temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-            left++;
-            right--;
+        if (i <= j) {
+            int temp = arr[i];
+            arr[i] = arr[j];
+            arr[j] = temp;
+            i++;
+            j--;
         }
     }
-    printf("%d %d\n",left,right);
+    if (left < j) {
+        quickSort(arr,left,j);
+    }
+    if (right > i) {
+        quickSort(arr,i,right);
+    }
 }
 
 void printArr(int *arr, int length) {

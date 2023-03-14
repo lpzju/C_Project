@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\shuzuzhizhen.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\shuzuzhizhen.dir/objects.a @CMakeFiles\shuzuzhizhen.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\shuzuzhizhen.dir/objects.a -Wl,--no-whole-archive -o shuzuzhizhen.exe -Wl,--out-implib,libshuzuzhizhen.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\shuzuzhizhen.dir\linklibs.rsp

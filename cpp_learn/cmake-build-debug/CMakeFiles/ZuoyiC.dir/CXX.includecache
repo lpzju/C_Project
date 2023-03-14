@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/ZuoyiC.cpp
+iostream
+-
+list
+-
+map
+-
+set
+-
+string
+-
+algorithm
+-
+cmath
+-
+queue
+-
+iterator
+-
+stack
+-
+

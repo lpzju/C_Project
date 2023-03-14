@@ -43,24 +43,42 @@
 //
 // 进阶：你可以想出一个时间复杂度小于 O(n²) 的算法吗？ 
 //
-// Related Topics 数组 哈希表 👍 16519 👎 0
+// Related Topics 数组 哈希表 👍 16521 👎 0
 
-
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <math.h>
 //leetcode submit region begin(Prohibit modification and deletion)
+/**
+ * Note: The returned array must be malloced, assume caller calls free().
+ */
 int* twoSum(int* nums, int numsSize, int target, int* returnSize){
     int i, j;
-    int *arr = (int *) malloc (2 * sizeof(int));
-    for (i = 0; i < numsSize; i++) {
+    *returnSize = 2;
+    int *temp = (int *) malloc (2 * sizeof(int));
+    temp[0] = -1;
+    temp[1] = -1;
+    for (i = 0; i < numsSize-1; i++) {
         for (j = i+1; j < numsSize; j++) {
-            if ((nums[i]+nums[j]) == target) {
-                *returnSize = 2;
-                arr[0] = i;
-                arr[1] = j;
-                return arr;
+            if (nums[i]+nums[j] == target) {
+                temp[0] = i;
+                temp[1] = j;
+                break;
             }
         }
     }
-    *returnSize = 0;
-    return arr;
+    return temp;
 }
 //leetcode submit region end(Prohibit modification and deletion)
+
+int main() {
+    int arr[] = {2,7,11,15};
+    int length = sizeof(arr)/sizeof(arr[0]);
+    printf("Hello leetcode\n");
+    int p = 2;
+    int *pp;
+    pp = twoSum(arr,length,19,&p);
+    printf("%d %d\n",pp[0],pp[1]);
+    return 0;
+}

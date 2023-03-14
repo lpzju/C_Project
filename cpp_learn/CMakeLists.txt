@@ -1,0 +1,16 @@
+cmake_minimum_required(VERSION 3.19)
+project(cpp_learn)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(cpp_learn main.cpp 107.cpp)
+add_executable(gouzao gouzao.cpp)
+add_executable(107 107.cpp)
+add_executable(thisDemo thisDemo.cpp)
+add_executable(friend1 friend1.cpp)
+add_executable(friend2 friend2.cpp)
+add_executable(chongzai chongzai.cpp)
+add_executable(zuoyichongzai zuoyichongzai.cpp)
+add_executable(ZuoyiC ZuoyiC.cpp)
+add_executable(zizengChongzai zizengChongzai.cpp)
+add_executable(qianzhi qianzhi.cpp)

@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\gouzao.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\gouzao.dir/objects.a @CMakeFiles\gouzao.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\gouzao.dir/objects.a -Wl,--no-whole-archive -o gouzao.exe -Wl,--out-implib,libgouzao.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\gouzao.dir\linklibs.rsp

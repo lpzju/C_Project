@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="C_Project" targetName="quick" />
+      <config projectName="C_Project" targetName="C_Project" />
+      <config projectName="C_Project" targetName="13" />
+      <config projectName="C_Project" targetName="shuzuzhizhen" />
+      <config projectName="C_Project" targetName="twoSum" />
+      <config projectName="C_Project" targetName="453" />
+      <config projectName="C_Project" targetName="erwei" />
+      <config projectName="C_Project" targetName="erweishuzu" />
+      <config projectName="C_Project" targetName="9" />
+    </generated>
   </component>
-  <component name="CMakeSettings">
+  <component name="CMakeSettings" AUTO_RELOAD="true">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="86e23dd3-8387-4089-9ea2-361f64e2ca7a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/C_Project.iml" beforeDir="false" />
+    <list default="true" id="c4ba7c40-df3e-452d-a69d-5aaf1e108a13" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/C_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/.idea/cpp_learn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/107.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/ZuoyiC.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/chongzai.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/friend1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/friend2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/gouzao.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/qianzhi.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/thisDemo.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/zizengChongzai.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cpp_learn/zuoyichongzai.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/main/13.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/main/453.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/main/59.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/main/9.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/main/erweishuzu.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob/erwei.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob/shuzuzhizhen.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/C_Project2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/leetcode/editor/cn/[1]两数之和.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/sortAlgorithm/quick.c" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/sortAlgorithm/quick.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/sortAlgorithm/简短分析.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/sortAlgorithm/简短分析.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,17 +62,19 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="CMakeLists.txt" />
-      </list>
-    </option>
-  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2Mo5tXAiUbyxwxZ34felpD4mtJ5" />
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/CMakeLists.txt" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/leetcode/main/59.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cpp_learn/100.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/leetcode/main/erweishuzu.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/leetcode/sortAlgorithm/quick.c" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/cpp_learn/gouzao.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="2MoOPBXjdFL0mJUVu0w3i5a0HQ0" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,13 +83,60 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+  <component name="RunManager" selected="CMake Application.shuzuzhizhen">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="13" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="13" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="13">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="453" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="453" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="453">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="9" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="9" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="9">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C_Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="C_Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="C_Project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="erwei" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="erwei" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="erwei">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="erweishuzu" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="erweishuzu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="erweishuzu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="quick" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="quick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="quick">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shuzuzhizhen" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="shuzuzhizhen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="shuzuzhizhen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="twoSum" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Project" TARGET_NAME="twoSum" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Project" RUN_TARGET_NAME="twoSum">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -56,19 +146,29 @@
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.13" />
+      <item itemvalue="CMake Application.453" />
+      <item itemvalue="CMake Application.9" />
+      <item itemvalue="CMake Application.C_Project" />
+      <item itemvalue="CMake Application.erwei" />
+      <item itemvalue="CMake Application.erweishuzu" />
+      <item itemvalue="CMake Application.quick" />
+      <item itemvalue="CMake Application.shuzuzhizhen" />
+      <item itemvalue="CMake Application.twoSum" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="86e23dd3-8387-4089-9ea2-361f64e2ca7a" name="Default Changelist" comment="" />
-      <created>1678421312137</created>
+      <changelist id="c4ba7c40-df3e-452d-a69d-5aaf1e108a13" name="Default Changelist" comment="" />
+      <created>1678430441581</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1678421312137</updated>
-      <workItem from="1678421314613" duration="34000" />
-      <workItem from="1678421629078" duration="8000" />
-      <workItem from="1678423858413" duration="342000" />
-      <workItem from="1678428066525" duration="36000" />
+      <updated>1678430441581</updated>
+      <workItem from="1678430442968" duration="2245000" />
+      <workItem from="1678432942695" duration="17020000" />
+      <workItem from="1678682233229" duration="9960000" />
     </task>
     <servers />
   </component>
@@ -86,5 +186,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

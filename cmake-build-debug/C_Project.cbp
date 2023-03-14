@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="C_Project"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 9"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="9/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/9.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 9/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Project">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/C_Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Project"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="C_Project/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/C_Project.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 C_Project/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="twoSum">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/twoSum.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="twoSum/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/twoSum.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 twoSum/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/quick.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 quick"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="quick/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/quick.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 quick/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="erweishuzu">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/erweishuzu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 erweishuzu"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="erweishuzu/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/erweishuzu.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 erweishuzu/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="453">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/453.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 453"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="453/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/453.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 453/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="13">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 13"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="13/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/13.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 13/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="erwei">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/erwei.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 erwei"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="erwei/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/erwei.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 erwei/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shuzuzhizhen">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/shuzuzhizhen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 shuzuzhizhen"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="shuzuzhizhen/fast">
+				<Option output="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/shuzuzhizhen.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 shuzuzhizhen/fast"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Users/liupeng/Downloads/Compressed/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/gouzao.cpp">
+			<Option target="C_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/leetcode/leetcode/editor/cn/twoSum.c">
+			<Option target="twoSum"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/leetcode/main/13.c">
+			<Option target="13"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/leetcode/main/453.c">
+			<Option target="453"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/leetcode/main/59.c">
+			<Option target="C_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/leetcode/main/9.c">
+			<Option target="9"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/leetcode/main/erweishuzu.c">
+			<Option target="C_Project"/>
+			<Option target="erweishuzu"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/leetcode/sortAlgorithm/quick.c">
+			<Option target="quick"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/main.c">
+			<Option target="C_Project"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/runoob/erwei.c">
+			<Option target="erwei"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/runoob/shuzuzhizhen.c">
+			<Option target="shuzuzhizhen"/>
+		</Unit>
+		<Unit filename="C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
