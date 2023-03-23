@@ -1,0 +1,4 @@
+1 zhangsan 1
+4 zhaoliu 1
+5 wangmazi 2
+7 www 1

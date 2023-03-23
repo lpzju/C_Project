@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\freadwrite.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\freadwrite.dir/objects.a @CMakeFiles\freadwrite.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\freadwrite.dir/objects.a -Wl,--no-whole-archive -o freadwrite.exe -Wl,--out-implib,libfreadwrite.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\freadwrite.dir\linklibs.rsp

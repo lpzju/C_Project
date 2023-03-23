@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/heimaGuanli/main.cpp
+iostream
+-
+workerManager.h
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/heimaGuanli/workerManager.h
+
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/heimaGuanli/workerManager.h
+

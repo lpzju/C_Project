@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\exit1.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\exit1.dir/objects.a @CMakeFiles\exit1.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\exit1.dir/objects.a -Wl,--no-whole-archive -o exit1.exe -Wl,--out-implib,libexit1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\exit1.dir\linklibs.rsp

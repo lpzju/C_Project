@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/WorkerManager/employee.cpp
+iostream
+-
+ctime
+-
+list
+-
+map
+-
+set
+-
+string
+-
+algorithm
+-
+cmath
+-
+queue
+-
+iterator
+-
+stack
+-
+employee.h
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/WorkerManager/employee.h
+
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/WorkerManager/employee.h
+worker.h
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/WorkerManager/worker.h
+
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/WorkerManager/worker.h
+iostream
+-
+string
+-
+

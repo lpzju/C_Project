@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\WorkerManager.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\WorkerManager.dir/objects.a @CMakeFiles\WorkerManager.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\WorkerManager.dir/objects.a -Wl,--no-whole-archive -o WorkerManager.exe -Wl,--out-implib,libWorkerManager.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\WorkerManager.dir\linklibs.rsp

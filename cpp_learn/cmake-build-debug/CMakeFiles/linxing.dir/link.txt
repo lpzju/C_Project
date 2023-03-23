@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\linxing.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\linxing.dir/objects.a @CMakeFiles\linxing.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\linxing.dir/objects.a -Wl,--no-whole-archive -o linxing.exe -Wl,--out-implib,liblinxing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\linxing.dir\linklibs.rsp

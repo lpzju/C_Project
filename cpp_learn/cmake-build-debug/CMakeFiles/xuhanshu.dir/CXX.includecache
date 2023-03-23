@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/liupeng/Desktop/ZhangLAB/code/C_Project/cpp_learn/xuhanshu.cpp
+iostream
+-
+ctime
+-
+list
+-
+map
+-
+set
+-
+string
+-
+algorithm
+-
+cmath
+-
+queue
+-
+iterator
+-
+stack
+-
+

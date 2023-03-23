@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="cpp_learn" targetName="107" />
+      <config projectName="cpp_learn" targetName="cpp_learn" />
+      <config projectName="cpp_learn" targetName="qianzhi" />
+      <config projectName="cpp_learn" targetName="xuxigou" />
+      <config projectName="cpp_learn" targetName="shijian" />
+      <config projectName="cpp_learn" targetName="guanxichongzai" />
+      <config projectName="cpp_learn" targetName="duotai1" />
+      <config projectName="cpp_learn" targetName="main" />
+      <config projectName="cpp_learn" targetName="erjizhizhen" />
+      <config projectName="cpp_learn" targetName="ZuoyiC" />
+      <config projectName="cpp_learn" targetName="shijian2" />
+      <config projectName="cpp_learn" targetName="singleWorker" />
+      <config projectName="cpp_learn" targetName="fuzhichongzai" />
+      <config projectName="cpp_learn" targetName="friend2" />
+      <config projectName="cpp_learn" targetName="test" />
+      <config projectName="cpp_learn" targetName="friend1" />
+      <config projectName="cpp_learn" targetName="wuliaoxiequick" />
+      <config projectName="cpp_learn" targetName="malloctest" />
+      <config projectName="cpp_learn" targetName="chongzai" />
+      <config projectName="cpp_learn" targetName="zuoyichongzai" />
+      <config projectName="cpp_learn" targetName="linxing" />
+      <config projectName="cpp_learn" targetName="zizengChongzai" />
+      <config projectName="cpp_learn" targetName="Jichengxigou" />
+      <config projectName="cpp_learn" targetName="gouzao" />
+      <config projectName="cpp_learn" targetName="drink" />
+      <config projectName="cpp_learn" targetName="diannao" />
+      <config projectName="cpp_learn" targetName="thisDemo" />
+      <config projectName="cpp_learn" targetName="xuhanshu" />
+      <config projectName="cpp_learn" targetName="fanghanshu" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="98ee074c-71b7-4dbf-91af-e574247e45be" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/WorkerManager/.idea/WorkerManager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager/employee.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager/employee.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager/worker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager/workerManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager/workerManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/.idea/WorkerManager2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/boss.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/boss.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/employee.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/employee.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/manger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/manger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/worker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/workerManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager2/workerManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/boss.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/boss.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/employee.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/employee.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/manger.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/manger.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/worker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/workerManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WorkerManager3/workerManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/diannao.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duotai/Jichengxigou.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duotai/drink.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duotai/duotai1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duotai/xuxigou.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/duotai1.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/erjizhizhen.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fanghanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/guanxichongzai.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heimaGuanli/.idea/heimaGuanli.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heimaGuanli/employee.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heimaGuanli/employee.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heimaGuanli/worker.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heimaGuanli/workerManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heimaGuanli/workerManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linxing.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/malloctest.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager/test.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager/workerManager.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manager/workerManager.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shijian.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shijian2.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singleWorker.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wuliaoxiequick.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xuhanshu.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/main/118.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/main/2351.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/main/76.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leetcode/sortAlgorithm/cocktail.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/assert1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/atoi1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/calloc1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/clearerr1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/exit1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/fabs1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/feof1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/fopen1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/fprintfscanf.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/freadwrite.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/getputc.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/getsputs.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wendang/stderr.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wenjian/file1.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xiaojiayu/wenjian/hello1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/leetcode/statistics.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/13.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/13.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/453.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/453.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/9.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/9.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/C_Project.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/C_Project.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/erwei.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/erwei.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/erweishuzu.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/erweishuzu.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/quick.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/quick.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/shuzuzhizhen.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/shuzuzhizhen.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/twoSum.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/CMakeFiles/twoSum.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/C_Project.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/C_Project.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZuoyiC.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/ZuoyiC.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chongzai.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/chongzai.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_learn.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cpp_learn.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/friend1.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/friend1.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/friend2.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/friend2.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gouzao.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/gouzao.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/qianzhi.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/qianzhi.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thisDemo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/thisDemo.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zizengChongzai.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zizengChongzai.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zuoyichongzai.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/zuoyichongzai.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/cpp_learn.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/cpp_learn.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fuzhichongzai.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/fuzhichongzai.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/main/59.c" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/main/59.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../leetcode/main/904.c" beforeDir="false" afterPath="$PROJECT_DIR$/../leetcode/main/904.c" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2MzTUeGSjQPUm8xLnnMpYmQBZKb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RunManager" selected="CMake Application.singleWorker">
+    <configuration name="107" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="107" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="107">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Jichengxigou" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="Jichengxigou" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="Jichengxigou">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuoyiC" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="ZuoyiC" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="ZuoyiC">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chongzai" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="chongzai" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="chongzai">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cpp_learn" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="cpp_learn" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="cpp_learn">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="diannao" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="diannao" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="diannao">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="drink" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="drink" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="drink">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="duotai1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="duotai1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="duotai1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="erjizhizhen" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="erjizhizhen" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="erjizhizhen">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fanghanshu" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="fanghanshu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="fanghanshu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="friend1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="friend1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="friend1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="friend2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="friend2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="friend2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fuzhichongzai" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="fuzhichongzai" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="fuzhichongzai">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="gouzao" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="gouzao" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="gouzao">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="guanxichongzai" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="guanxichongzai" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="guanxichongzai">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="linxing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="linxing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="linxing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="malloctest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="malloctest" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="malloctest">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="qianzhi" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="qianzhi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="qianzhi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shijian" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="shijian" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="shijian">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="shijian2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="shijian2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="shijian2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="singleWorker" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="singleWorker" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="singleWorker">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="thisDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="thisDemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="thisDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wuliaoxiequick" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="wuliaoxiequick" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="wuliaoxiequick">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xuhanshu" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="xuhanshu" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="xuhanshu">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="xuxigou" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="xuxigou" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="xuxigou">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zizengChongzai" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="zizengChongzai" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="zizengChongzai">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zuoyichongzai" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp_learn" TARGET_NAME="zuoyichongzai" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp_learn" RUN_TARGET_NAME="zuoyichongzai">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.107" />
+      <item itemvalue="CMake Application.chongzai" />
+      <item itemvalue="CMake Application.cpp_learn" />
+      <item itemvalue="CMake Application.diannao" />
+      <item itemvalue="CMake Application.drink" />
+      <item itemvalue="CMake Application.duotai1" />
+      <item itemvalue="CMake Application.erjizhizhen" />
+      <item itemvalue="CMake Application.fanghanshu" />
+      <item itemvalue="CMake Application.friend1" />
+      <item itemvalue="CMake Application.friend2" />
+      <item itemvalue="CMake Application.fuzhichongzai" />
+      <item itemvalue="CMake Application.gouzao" />
+      <item itemvalue="CMake Application.guanxichongzai" />
+      <item itemvalue="CMake Application.Jichengxigou" />
+      <item itemvalue="CMake Application.linxing" />
+      <item itemvalue="CMake Application.main" />
+      <item itemvalue="CMake Application.malloctest" />
+      <item itemvalue="CMake Application.qianzhi" />
+      <item itemvalue="CMake Application.shijian" />
+      <item itemvalue="CMake Application.shijian2" />
+      <item itemvalue="CMake Application.singleWorker" />
+      <item itemvalue="CMake Application.test" />
+      <item itemvalue="CMake Application.thisDemo" />
+      <item itemvalue="CMake Application.wuliaoxiequick" />
+      <item itemvalue="CMake Application.xuhanshu" />
+      <item itemvalue="CMake Application.xuxigou" />
+      <item itemvalue="CMake Application.zizengChongzai" />
+      <item itemvalue="CMake Application.ZuoyiC" />
+      <item itemvalue="CMake Application.zuoyichongzai" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98ee074c-71b7-4dbf-91af-e574247e45be" name="Default Changelist" comment="" />
+      <created>1678769428235</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678769428235</updated>
+      <workItem from="1678769429496" duration="7273000" />
+      <workItem from="1678788110772" duration="9267000" />
+      <workItem from="1678940107432" duration="3195000" />
+      <workItem from="1679126049527" duration="8855000" />
+      <workItem from="1679273922700" duration="648000" />
+      <workItem from="1679401701637" duration="2802000" />
+      <workItem from="1679448629392" duration="2220000" />
+      <workItem from="1679467779284" duration="1188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/duotai/duotai1.cpp</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

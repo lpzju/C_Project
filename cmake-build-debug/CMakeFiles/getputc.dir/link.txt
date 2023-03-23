@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\getputc.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\getputc.dir/objects.a @CMakeFiles\getputc.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\getputc.dir/objects.a -Wl,--no-whole-archive -o getputc.exe -Wl,--out-implib,libgetputc.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\getputc.dir\linklibs.rsp

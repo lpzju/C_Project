@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\guanxichongzai.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\guanxichongzai.dir/objects.a @CMakeFiles\guanxichongzai.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\guanxichongzai.dir/objects.a -Wl,--no-whole-archive -o guanxichongzai.exe -Wl,--out-implib,libguanxichongzai.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\guanxichongzai.dir\linklibs.rsp

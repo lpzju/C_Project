@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\xuhanshu.dir/objects.a
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\ar.exe cr CMakeFiles\xuhanshu.dir/objects.a @CMakeFiles\xuhanshu.dir\objects1.rsp
+C:\Users\liupeng\Downloads\Compressed\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\xuhanshu.dir/objects.a -Wl,--no-whole-archive -o xuhanshu.exe -Wl,--out-implib,libxuhanshu.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\xuhanshu.dir\linklibs.rsp

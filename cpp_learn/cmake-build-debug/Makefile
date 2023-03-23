@@ -142,6 +142,19 @@ cpp_learn/fast:
 .PHONY : cpp_learn/fast
 
 #=============================================================================
+# Target rules for targets named guanxichongzai
+
+# Build rule for target.
+guanxichongzai: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 guanxichongzai
+.PHONY : guanxichongzai
+
+# fast build rule for target.
+guanxichongzai/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\guanxichongzai.dir\build.make CMakeFiles/guanxichongzai.dir/build
+.PHONY : guanxichongzai/fast
+
+#=============================================================================
 # Target rules for targets named chongzai
 
 # Build rule for target.
@@ -153,6 +166,19 @@ chongzai: cmake_check_build_system
 chongzai/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\chongzai.dir\build.make CMakeFiles/chongzai.dir/build
 .PHONY : chongzai/fast
+
+#=============================================================================
+# Target rules for targets named fuzhichongzai
+
+# Build rule for target.
+fuzhichongzai: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fuzhichongzai
+.PHONY : fuzhichongzai
+
+# fast build rule for target.
+fuzhichongzai/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fuzhichongzai.dir\build.make CMakeFiles/fuzhichongzai.dir/build
+.PHONY : fuzhichongzai/fast
 
 #=============================================================================
 # Target rules for targets named friend1
@@ -220,6 +246,32 @@ thisDemo/fast:
 .PHONY : thisDemo/fast
 
 #=============================================================================
+# Target rules for targets named erjizhizhen
+
+# Build rule for target.
+erjizhizhen: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 erjizhizhen
+.PHONY : erjizhizhen
+
+# fast build rule for target.
+erjizhizhen/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\erjizhizhen.dir\build.make CMakeFiles/erjizhizhen.dir/build
+.PHONY : erjizhizhen/fast
+
+#=============================================================================
+# Target rules for targets named malloctest
+
+# Build rule for target.
+malloctest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 malloctest
+.PHONY : malloctest
+
+# fast build rule for target.
+malloctest/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\malloctest.dir\build.make CMakeFiles/malloctest.dir/build
+.PHONY : malloctest/fast
+
+#=============================================================================
 # Target rules for targets named friend2
 
 # Build rule for target.
@@ -270,6 +322,188 @@ qianzhi: cmake_check_build_system
 qianzhi/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\qianzhi.dir\build.make CMakeFiles/qianzhi.dir/build
 .PHONY : qianzhi/fast
+
+#=============================================================================
+# Target rules for targets named fanghanshu
+
+# Build rule for target.
+fanghanshu: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fanghanshu
+.PHONY : fanghanshu
+
+# fast build rule for target.
+fanghanshu/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fanghanshu.dir\build.make CMakeFiles/fanghanshu.dir/build
+.PHONY : fanghanshu/fast
+
+#=============================================================================
+# Target rules for targets named wuliaoxiequick
+
+# Build rule for target.
+wuliaoxiequick: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 wuliaoxiequick
+.PHONY : wuliaoxiequick
+
+# fast build rule for target.
+wuliaoxiequick/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\wuliaoxiequick.dir\build.make CMakeFiles/wuliaoxiequick.dir/build
+.PHONY : wuliaoxiequick/fast
+
+#=============================================================================
+# Target rules for targets named shijian
+
+# Build rule for target.
+shijian: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 shijian
+.PHONY : shijian
+
+# fast build rule for target.
+shijian/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian.dir\build.make CMakeFiles/shijian.dir/build
+.PHONY : shijian/fast
+
+#=============================================================================
+# Target rules for targets named shijian2
+
+# Build rule for target.
+shijian2: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 shijian2
+.PHONY : shijian2
+
+# fast build rule for target.
+shijian2/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian2.dir\build.make CMakeFiles/shijian2.dir/build
+.PHONY : shijian2/fast
+
+#=============================================================================
+# Target rules for targets named main
+
+# Build rule for target.
+main: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 main
+.PHONY : main
+
+# fast build rule for target.
+main/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/build
+.PHONY : main/fast
+
+#=============================================================================
+# Target rules for targets named linxing
+
+# Build rule for target.
+linxing: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 linxing
+.PHONY : linxing
+
+# fast build rule for target.
+linxing/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linxing.dir\build.make CMakeFiles/linxing.dir/build
+.PHONY : linxing/fast
+
+#=============================================================================
+# Target rules for targets named duotai1
+
+# Build rule for target.
+duotai1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 duotai1
+.PHONY : duotai1
+
+# fast build rule for target.
+duotai1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\duotai1.dir\build.make CMakeFiles/duotai1.dir/build
+.PHONY : duotai1/fast
+
+#=============================================================================
+# Target rules for targets named xuhanshu
+
+# Build rule for target.
+xuhanshu: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 xuhanshu
+.PHONY : xuhanshu
+
+# fast build rule for target.
+xuhanshu/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuhanshu.dir\build.make CMakeFiles/xuhanshu.dir/build
+.PHONY : xuhanshu/fast
+
+#=============================================================================
+# Target rules for targets named drink
+
+# Build rule for target.
+drink: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 drink
+.PHONY : drink
+
+# fast build rule for target.
+drink/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\drink.dir\build.make CMakeFiles/drink.dir/build
+.PHONY : drink/fast
+
+#=============================================================================
+# Target rules for targets named Jichengxigou
+
+# Build rule for target.
+Jichengxigou: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Jichengxigou
+.PHONY : Jichengxigou
+
+# fast build rule for target.
+Jichengxigou/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Jichengxigou.dir\build.make CMakeFiles/Jichengxigou.dir/build
+.PHONY : Jichengxigou/fast
+
+#=============================================================================
+# Target rules for targets named xuxigou
+
+# Build rule for target.
+xuxigou: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 xuxigou
+.PHONY : xuxigou
+
+# fast build rule for target.
+xuxigou/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuxigou.dir\build.make CMakeFiles/xuxigou.dir/build
+.PHONY : xuxigou/fast
+
+#=============================================================================
+# Target rules for targets named diannao
+
+# Build rule for target.
+diannao: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 diannao
+.PHONY : diannao
+
+# fast build rule for target.
+diannao/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\diannao.dir\build.make CMakeFiles/diannao.dir/build
+.PHONY : diannao/fast
+
+#=============================================================================
+# Target rules for targets named test
+
+# Build rule for target.
+test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 test
+.PHONY : test
+
+# fast build rule for target.
+test/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/build
+.PHONY : test/fast
+
+#=============================================================================
+# Target rules for targets named singleWorker
+
+# Build rule for target.
+singleWorker: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 singleWorker
+.PHONY : singleWorker
+
+# fast build rule for target.
+singleWorker/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\singleWorker.dir\build.make CMakeFiles/singleWorker.dir/build
+.PHONY : singleWorker/fast
 
 107.obj: 107.cpp.obj
 
@@ -355,6 +589,195 @@ chongzai.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\chongzai.dir\build.make CMakeFiles/chongzai.dir/chongzai.cpp.s
 .PHONY : chongzai.cpp.s
 
+diannao.obj: diannao.cpp.obj
+
+.PHONY : diannao.obj
+
+# target to build an object file
+diannao.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\diannao.dir\build.make CMakeFiles/diannao.dir/diannao.cpp.obj
+.PHONY : diannao.cpp.obj
+
+diannao.i: diannao.cpp.i
+
+.PHONY : diannao.i
+
+# target to preprocess a source file
+diannao.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\diannao.dir\build.make CMakeFiles/diannao.dir/diannao.cpp.i
+.PHONY : diannao.cpp.i
+
+diannao.s: diannao.cpp.s
+
+.PHONY : diannao.s
+
+# target to generate assembly for a file
+diannao.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\diannao.dir\build.make CMakeFiles/diannao.dir/diannao.cpp.s
+.PHONY : diannao.cpp.s
+
+duotai/Jichengxigou.obj: duotai/Jichengxigou.cpp.obj
+
+.PHONY : duotai/Jichengxigou.obj
+
+# target to build an object file
+duotai/Jichengxigou.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Jichengxigou.dir\build.make CMakeFiles/Jichengxigou.dir/duotai/Jichengxigou.cpp.obj
+.PHONY : duotai/Jichengxigou.cpp.obj
+
+duotai/Jichengxigou.i: duotai/Jichengxigou.cpp.i
+
+.PHONY : duotai/Jichengxigou.i
+
+# target to preprocess a source file
+duotai/Jichengxigou.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Jichengxigou.dir\build.make CMakeFiles/Jichengxigou.dir/duotai/Jichengxigou.cpp.i
+.PHONY : duotai/Jichengxigou.cpp.i
+
+duotai/Jichengxigou.s: duotai/Jichengxigou.cpp.s
+
+.PHONY : duotai/Jichengxigou.s
+
+# target to generate assembly for a file
+duotai/Jichengxigou.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Jichengxigou.dir\build.make CMakeFiles/Jichengxigou.dir/duotai/Jichengxigou.cpp.s
+.PHONY : duotai/Jichengxigou.cpp.s
+
+duotai/drink.obj: duotai/drink.cpp.obj
+
+.PHONY : duotai/drink.obj
+
+# target to build an object file
+duotai/drink.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\drink.dir\build.make CMakeFiles/drink.dir/duotai/drink.cpp.obj
+.PHONY : duotai/drink.cpp.obj
+
+duotai/drink.i: duotai/drink.cpp.i
+
+.PHONY : duotai/drink.i
+
+# target to preprocess a source file
+duotai/drink.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\drink.dir\build.make CMakeFiles/drink.dir/duotai/drink.cpp.i
+.PHONY : duotai/drink.cpp.i
+
+duotai/drink.s: duotai/drink.cpp.s
+
+.PHONY : duotai/drink.s
+
+# target to generate assembly for a file
+duotai/drink.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\drink.dir\build.make CMakeFiles/drink.dir/duotai/drink.cpp.s
+.PHONY : duotai/drink.cpp.s
+
+duotai/duotai1.obj: duotai/duotai1.cpp.obj
+
+.PHONY : duotai/duotai1.obj
+
+# target to build an object file
+duotai/duotai1.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\duotai1.dir\build.make CMakeFiles/duotai1.dir/duotai/duotai1.cpp.obj
+.PHONY : duotai/duotai1.cpp.obj
+
+duotai/duotai1.i: duotai/duotai1.cpp.i
+
+.PHONY : duotai/duotai1.i
+
+# target to preprocess a source file
+duotai/duotai1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\duotai1.dir\build.make CMakeFiles/duotai1.dir/duotai/duotai1.cpp.i
+.PHONY : duotai/duotai1.cpp.i
+
+duotai/duotai1.s: duotai/duotai1.cpp.s
+
+.PHONY : duotai/duotai1.s
+
+# target to generate assembly for a file
+duotai/duotai1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\duotai1.dir\build.make CMakeFiles/duotai1.dir/duotai/duotai1.cpp.s
+.PHONY : duotai/duotai1.cpp.s
+
+duotai/xuxigou.obj: duotai/xuxigou.cpp.obj
+
+.PHONY : duotai/xuxigou.obj
+
+# target to build an object file
+duotai/xuxigou.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuxigou.dir\build.make CMakeFiles/xuxigou.dir/duotai/xuxigou.cpp.obj
+.PHONY : duotai/xuxigou.cpp.obj
+
+duotai/xuxigou.i: duotai/xuxigou.cpp.i
+
+.PHONY : duotai/xuxigou.i
+
+# target to preprocess a source file
+duotai/xuxigou.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuxigou.dir\build.make CMakeFiles/xuxigou.dir/duotai/xuxigou.cpp.i
+.PHONY : duotai/xuxigou.cpp.i
+
+duotai/xuxigou.s: duotai/xuxigou.cpp.s
+
+.PHONY : duotai/xuxigou.s
+
+# target to generate assembly for a file
+duotai/xuxigou.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuxigou.dir\build.make CMakeFiles/xuxigou.dir/duotai/xuxigou.cpp.s
+.PHONY : duotai/xuxigou.cpp.s
+
+erjizhizhen.obj: erjizhizhen.cpp.obj
+
+.PHONY : erjizhizhen.obj
+
+# target to build an object file
+erjizhizhen.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\erjizhizhen.dir\build.make CMakeFiles/erjizhizhen.dir/erjizhizhen.cpp.obj
+.PHONY : erjizhizhen.cpp.obj
+
+erjizhizhen.i: erjizhizhen.cpp.i
+
+.PHONY : erjizhizhen.i
+
+# target to preprocess a source file
+erjizhizhen.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\erjizhizhen.dir\build.make CMakeFiles/erjizhizhen.dir/erjizhizhen.cpp.i
+.PHONY : erjizhizhen.cpp.i
+
+erjizhizhen.s: erjizhizhen.cpp.s
+
+.PHONY : erjizhizhen.s
+
+# target to generate assembly for a file
+erjizhizhen.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\erjizhizhen.dir\build.make CMakeFiles/erjizhizhen.dir/erjizhizhen.cpp.s
+.PHONY : erjizhizhen.cpp.s
+
+fanghanshu.obj: fanghanshu.cpp.obj
+
+.PHONY : fanghanshu.obj
+
+# target to build an object file
+fanghanshu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fanghanshu.dir\build.make CMakeFiles/fanghanshu.dir/fanghanshu.cpp.obj
+.PHONY : fanghanshu.cpp.obj
+
+fanghanshu.i: fanghanshu.cpp.i
+
+.PHONY : fanghanshu.i
+
+# target to preprocess a source file
+fanghanshu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fanghanshu.dir\build.make CMakeFiles/fanghanshu.dir/fanghanshu.cpp.i
+.PHONY : fanghanshu.cpp.i
+
+fanghanshu.s: fanghanshu.cpp.s
+
+.PHONY : fanghanshu.s
+
+# target to generate assembly for a file
+fanghanshu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fanghanshu.dir\build.make CMakeFiles/fanghanshu.dir/fanghanshu.cpp.s
+.PHONY : fanghanshu.cpp.s
+
 friend1.obj: friend1.cpp.obj
 
 .PHONY : friend1.obj
@@ -409,6 +832,33 @@ friend2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\friend2.dir\build.make CMakeFiles/friend2.dir/friend2.cpp.s
 .PHONY : friend2.cpp.s
 
+fuzhichongzai.obj: fuzhichongzai.cpp.obj
+
+.PHONY : fuzhichongzai.obj
+
+# target to build an object file
+fuzhichongzai.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fuzhichongzai.dir\build.make CMakeFiles/fuzhichongzai.dir/fuzhichongzai.cpp.obj
+.PHONY : fuzhichongzai.cpp.obj
+
+fuzhichongzai.i: fuzhichongzai.cpp.i
+
+.PHONY : fuzhichongzai.i
+
+# target to preprocess a source file
+fuzhichongzai.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fuzhichongzai.dir\build.make CMakeFiles/fuzhichongzai.dir/fuzhichongzai.cpp.i
+.PHONY : fuzhichongzai.cpp.i
+
+fuzhichongzai.s: fuzhichongzai.cpp.s
+
+.PHONY : fuzhichongzai.s
+
+# target to generate assembly for a file
+fuzhichongzai.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fuzhichongzai.dir\build.make CMakeFiles/fuzhichongzai.dir/fuzhichongzai.cpp.s
+.PHONY : fuzhichongzai.cpp.s
+
 gouzao.obj: gouzao.cpp.obj
 
 .PHONY : gouzao.obj
@@ -435,6 +885,60 @@ gouzao.s: gouzao.cpp.s
 gouzao.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\gouzao.dir\build.make CMakeFiles/gouzao.dir/gouzao.cpp.s
 .PHONY : gouzao.cpp.s
+
+guanxichongzai.obj: guanxichongzai.cpp.obj
+
+.PHONY : guanxichongzai.obj
+
+# target to build an object file
+guanxichongzai.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\guanxichongzai.dir\build.make CMakeFiles/guanxichongzai.dir/guanxichongzai.cpp.obj
+.PHONY : guanxichongzai.cpp.obj
+
+guanxichongzai.i: guanxichongzai.cpp.i
+
+.PHONY : guanxichongzai.i
+
+# target to preprocess a source file
+guanxichongzai.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\guanxichongzai.dir\build.make CMakeFiles/guanxichongzai.dir/guanxichongzai.cpp.i
+.PHONY : guanxichongzai.cpp.i
+
+guanxichongzai.s: guanxichongzai.cpp.s
+
+.PHONY : guanxichongzai.s
+
+# target to generate assembly for a file
+guanxichongzai.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\guanxichongzai.dir\build.make CMakeFiles/guanxichongzai.dir/guanxichongzai.cpp.s
+.PHONY : guanxichongzai.cpp.s
+
+linxing.obj: linxing.cpp.obj
+
+.PHONY : linxing.obj
+
+# target to build an object file
+linxing.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linxing.dir\build.make CMakeFiles/linxing.dir/linxing.cpp.obj
+.PHONY : linxing.cpp.obj
+
+linxing.i: linxing.cpp.i
+
+.PHONY : linxing.i
+
+# target to preprocess a source file
+linxing.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linxing.dir\build.make CMakeFiles/linxing.dir/linxing.cpp.i
+.PHONY : linxing.cpp.i
+
+linxing.s: linxing.cpp.s
+
+.PHONY : linxing.s
+
+# target to generate assembly for a file
+linxing.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\linxing.dir\build.make CMakeFiles/linxing.dir/linxing.cpp.s
+.PHONY : linxing.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -463,6 +967,87 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\cpp_learn.dir\build.make CMakeFiles/cpp_learn.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+malloctest.obj: malloctest.cpp.obj
+
+.PHONY : malloctest.obj
+
+# target to build an object file
+malloctest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\malloctest.dir\build.make CMakeFiles/malloctest.dir/malloctest.cpp.obj
+.PHONY : malloctest.cpp.obj
+
+malloctest.i: malloctest.cpp.i
+
+.PHONY : malloctest.i
+
+# target to preprocess a source file
+malloctest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\malloctest.dir\build.make CMakeFiles/malloctest.dir/malloctest.cpp.i
+.PHONY : malloctest.cpp.i
+
+malloctest.s: malloctest.cpp.s
+
+.PHONY : malloctest.s
+
+# target to generate assembly for a file
+malloctest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\malloctest.dir\build.make CMakeFiles/malloctest.dir/malloctest.cpp.s
+.PHONY : malloctest.cpp.s
+
+manager/main.obj: manager/main.cpp.obj
+
+.PHONY : manager/main.obj
+
+# target to build an object file
+manager/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/manager/main.cpp.obj
+.PHONY : manager/main.cpp.obj
+
+manager/main.i: manager/main.cpp.i
+
+.PHONY : manager/main.i
+
+# target to preprocess a source file
+manager/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/manager/main.cpp.i
+.PHONY : manager/main.cpp.i
+
+manager/main.s: manager/main.cpp.s
+
+.PHONY : manager/main.s
+
+# target to generate assembly for a file
+manager/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\main.dir\build.make CMakeFiles/main.dir/manager/main.cpp.s
+.PHONY : manager/main.cpp.s
+
+manager/test.obj: manager/test.cpp.obj
+
+.PHONY : manager/test.obj
+
+# target to build an object file
+manager/test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/manager/test.cpp.obj
+.PHONY : manager/test.cpp.obj
+
+manager/test.i: manager/test.cpp.i
+
+.PHONY : manager/test.i
+
+# target to preprocess a source file
+manager/test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/manager/test.cpp.i
+.PHONY : manager/test.cpp.i
+
+manager/test.s: manager/test.cpp.s
+
+.PHONY : manager/test.s
+
+# target to generate assembly for a file
+manager/test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\test.dir\build.make CMakeFiles/test.dir/manager/test.cpp.s
+.PHONY : manager/test.cpp.s
+
 qianzhi.obj: qianzhi.cpp.obj
 
 .PHONY : qianzhi.obj
@@ -490,6 +1075,87 @@ qianzhi.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\qianzhi.dir\build.make CMakeFiles/qianzhi.dir/qianzhi.cpp.s
 .PHONY : qianzhi.cpp.s
 
+shijian.obj: shijian.cpp.obj
+
+.PHONY : shijian.obj
+
+# target to build an object file
+shijian.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian.dir\build.make CMakeFiles/shijian.dir/shijian.cpp.obj
+.PHONY : shijian.cpp.obj
+
+shijian.i: shijian.cpp.i
+
+.PHONY : shijian.i
+
+# target to preprocess a source file
+shijian.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian.dir\build.make CMakeFiles/shijian.dir/shijian.cpp.i
+.PHONY : shijian.cpp.i
+
+shijian.s: shijian.cpp.s
+
+.PHONY : shijian.s
+
+# target to generate assembly for a file
+shijian.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian.dir\build.make CMakeFiles/shijian.dir/shijian.cpp.s
+.PHONY : shijian.cpp.s
+
+shijian2.obj: shijian2.cpp.obj
+
+.PHONY : shijian2.obj
+
+# target to build an object file
+shijian2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian2.dir\build.make CMakeFiles/shijian2.dir/shijian2.cpp.obj
+.PHONY : shijian2.cpp.obj
+
+shijian2.i: shijian2.cpp.i
+
+.PHONY : shijian2.i
+
+# target to preprocess a source file
+shijian2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian2.dir\build.make CMakeFiles/shijian2.dir/shijian2.cpp.i
+.PHONY : shijian2.cpp.i
+
+shijian2.s: shijian2.cpp.s
+
+.PHONY : shijian2.s
+
+# target to generate assembly for a file
+shijian2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\shijian2.dir\build.make CMakeFiles/shijian2.dir/shijian2.cpp.s
+.PHONY : shijian2.cpp.s
+
+singleWorker.obj: singleWorker.cpp.obj
+
+.PHONY : singleWorker.obj
+
+# target to build an object file
+singleWorker.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\singleWorker.dir\build.make CMakeFiles/singleWorker.dir/singleWorker.cpp.obj
+.PHONY : singleWorker.cpp.obj
+
+singleWorker.i: singleWorker.cpp.i
+
+.PHONY : singleWorker.i
+
+# target to preprocess a source file
+singleWorker.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\singleWorker.dir\build.make CMakeFiles/singleWorker.dir/singleWorker.cpp.i
+.PHONY : singleWorker.cpp.i
+
+singleWorker.s: singleWorker.cpp.s
+
+.PHONY : singleWorker.s
+
+# target to generate assembly for a file
+singleWorker.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\singleWorker.dir\build.make CMakeFiles/singleWorker.dir/singleWorker.cpp.s
+.PHONY : singleWorker.cpp.s
+
 thisDemo.obj: thisDemo.cpp.obj
 
 .PHONY : thisDemo.obj
@@ -516,6 +1182,60 @@ thisDemo.s: thisDemo.cpp.s
 thisDemo.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\thisDemo.dir\build.make CMakeFiles/thisDemo.dir/thisDemo.cpp.s
 .PHONY : thisDemo.cpp.s
+
+wuliaoxiequick.obj: wuliaoxiequick.cpp.obj
+
+.PHONY : wuliaoxiequick.obj
+
+# target to build an object file
+wuliaoxiequick.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\wuliaoxiequick.dir\build.make CMakeFiles/wuliaoxiequick.dir/wuliaoxiequick.cpp.obj
+.PHONY : wuliaoxiequick.cpp.obj
+
+wuliaoxiequick.i: wuliaoxiequick.cpp.i
+
+.PHONY : wuliaoxiequick.i
+
+# target to preprocess a source file
+wuliaoxiequick.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\wuliaoxiequick.dir\build.make CMakeFiles/wuliaoxiequick.dir/wuliaoxiequick.cpp.i
+.PHONY : wuliaoxiequick.cpp.i
+
+wuliaoxiequick.s: wuliaoxiequick.cpp.s
+
+.PHONY : wuliaoxiequick.s
+
+# target to generate assembly for a file
+wuliaoxiequick.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\wuliaoxiequick.dir\build.make CMakeFiles/wuliaoxiequick.dir/wuliaoxiequick.cpp.s
+.PHONY : wuliaoxiequick.cpp.s
+
+xuhanshu.obj: xuhanshu.cpp.obj
+
+.PHONY : xuhanshu.obj
+
+# target to build an object file
+xuhanshu.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuhanshu.dir\build.make CMakeFiles/xuhanshu.dir/xuhanshu.cpp.obj
+.PHONY : xuhanshu.cpp.obj
+
+xuhanshu.i: xuhanshu.cpp.i
+
+.PHONY : xuhanshu.i
+
+# target to preprocess a source file
+xuhanshu.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuhanshu.dir\build.make CMakeFiles/xuhanshu.dir/xuhanshu.cpp.i
+.PHONY : xuhanshu.cpp.i
+
+xuhanshu.s: xuhanshu.cpp.s
+
+.PHONY : xuhanshu.s
+
+# target to generate assembly for a file
+xuhanshu.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\xuhanshu.dir\build.make CMakeFiles/xuhanshu.dir/xuhanshu.cpp.s
+.PHONY : xuhanshu.cpp.s
 
 zizengChongzai.obj: zizengChongzai.cpp.obj
 
@@ -580,14 +1300,32 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 107
+	@echo ... Jichengxigou
 	@echo ... ZuoyiC
 	@echo ... chongzai
 	@echo ... cpp_learn
+	@echo ... diannao
+	@echo ... drink
+	@echo ... duotai1
+	@echo ... erjizhizhen
+	@echo ... fanghanshu
 	@echo ... friend1
 	@echo ... friend2
+	@echo ... fuzhichongzai
 	@echo ... gouzao
+	@echo ... guanxichongzai
+	@echo ... linxing
+	@echo ... main
+	@echo ... malloctest
 	@echo ... qianzhi
+	@echo ... shijian
+	@echo ... shijian2
+	@echo ... singleWorker
+	@echo ... test
 	@echo ... thisDemo
+	@echo ... wuliaoxiequick
+	@echo ... xuhanshu
+	@echo ... xuxigou
 	@echo ... zizengChongzai
 	@echo ... zuoyichongzai
 	@echo ... 107.obj
@@ -599,24 +1337,78 @@ help:
 	@echo ... chongzai.obj
 	@echo ... chongzai.i
 	@echo ... chongzai.s
+	@echo ... diannao.obj
+	@echo ... diannao.i
+	@echo ... diannao.s
+	@echo ... duotai/Jichengxigou.obj
+	@echo ... duotai/Jichengxigou.i
+	@echo ... duotai/Jichengxigou.s
+	@echo ... duotai/drink.obj
+	@echo ... duotai/drink.i
+	@echo ... duotai/drink.s
+	@echo ... duotai/duotai1.obj
+	@echo ... duotai/duotai1.i
+	@echo ... duotai/duotai1.s
+	@echo ... duotai/xuxigou.obj
+	@echo ... duotai/xuxigou.i
+	@echo ... duotai/xuxigou.s
+	@echo ... erjizhizhen.obj
+	@echo ... erjizhizhen.i
+	@echo ... erjizhizhen.s
+	@echo ... fanghanshu.obj
+	@echo ... fanghanshu.i
+	@echo ... fanghanshu.s
 	@echo ... friend1.obj
 	@echo ... friend1.i
 	@echo ... friend1.s
 	@echo ... friend2.obj
 	@echo ... friend2.i
 	@echo ... friend2.s
+	@echo ... fuzhichongzai.obj
+	@echo ... fuzhichongzai.i
+	@echo ... fuzhichongzai.s
 	@echo ... gouzao.obj
 	@echo ... gouzao.i
 	@echo ... gouzao.s
+	@echo ... guanxichongzai.obj
+	@echo ... guanxichongzai.i
+	@echo ... guanxichongzai.s
+	@echo ... linxing.obj
+	@echo ... linxing.i
+	@echo ... linxing.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
+	@echo ... malloctest.obj
+	@echo ... malloctest.i
+	@echo ... malloctest.s
+	@echo ... manager/main.obj
+	@echo ... manager/main.i
+	@echo ... manager/main.s
+	@echo ... manager/test.obj
+	@echo ... manager/test.i
+	@echo ... manager/test.s
 	@echo ... qianzhi.obj
 	@echo ... qianzhi.i
 	@echo ... qianzhi.s
+	@echo ... shijian.obj
+	@echo ... shijian.i
+	@echo ... shijian.s
+	@echo ... shijian2.obj
+	@echo ... shijian2.i
+	@echo ... shijian2.s
+	@echo ... singleWorker.obj
+	@echo ... singleWorker.i
+	@echo ... singleWorker.s
 	@echo ... thisDemo.obj
 	@echo ... thisDemo.i
 	@echo ... thisDemo.s
+	@echo ... wuliaoxiequick.obj
+	@echo ... wuliaoxiequick.i
+	@echo ... wuliaoxiequick.s
+	@echo ... xuhanshu.obj
+	@echo ... xuhanshu.i
+	@echo ... xuhanshu.s
 	@echo ... zizengChongzai.obj
 	@echo ... zizengChongzai.i
 	@echo ... zizengChongzai.s

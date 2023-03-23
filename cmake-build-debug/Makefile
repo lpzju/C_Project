@@ -168,6 +168,45 @@ twoSum/fast:
 .PHONY : twoSum/fast
 
 #=============================================================================
+# Target rules for targets named fopen1
+
+# Build rule for target.
+fopen1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fopen1
+.PHONY : fopen1
+
+# fast build rule for target.
+fopen1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fopen1.dir\build.make CMakeFiles/fopen1.dir/build
+.PHONY : fopen1/fast
+
+#=============================================================================
+# Target rules for targets named clearerr1
+
+# Build rule for target.
+clearerr1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 clearerr1
+.PHONY : clearerr1
+
+# fast build rule for target.
+clearerr1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\clearerr1.dir\build.make CMakeFiles/clearerr1.dir/build
+.PHONY : clearerr1/fast
+
+#=============================================================================
+# Target rules for targets named 2351
+
+# Build rule for target.
+2351: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 2351
+.PHONY : 2351
+
+# fast build rule for target.
+2351/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2351.dir\build.make CMakeFiles/2351.dir/build
+.PHONY : 2351/fast
+
+#=============================================================================
 # Target rules for targets named quick
 
 # Build rule for target.
@@ -192,6 +231,19 @@ erweishuzu: cmake_check_build_system
 erweishuzu/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\erweishuzu.dir\build.make CMakeFiles/erweishuzu.dir/build
 .PHONY : erweishuzu/fast
+
+#=============================================================================
+# Target rules for targets named cocktail
+
+# Build rule for target.
+cocktail: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 cocktail
+.PHONY : cocktail
+
+# fast build rule for target.
+cocktail/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cocktail.dir\build.make CMakeFiles/cocktail.dir/build
+.PHONY : cocktail/fast
 
 #=============================================================================
 # Target rules for targets named 453
@@ -245,6 +297,227 @@ shuzuzhizhen/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\shuzuzhizhen.dir\build.make CMakeFiles/shuzuzhizhen.dir/build
 .PHONY : shuzuzhizhen/fast
 
+#=============================================================================
+# Target rules for targets named getputc
+
+# Build rule for target.
+getputc: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 getputc
+.PHONY : getputc
+
+# fast build rule for target.
+getputc/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getputc.dir\build.make CMakeFiles/getputc.dir/build
+.PHONY : getputc/fast
+
+#=============================================================================
+# Target rules for targets named 118
+
+# Build rule for target.
+118: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 118
+.PHONY : 118
+
+# fast build rule for target.
+118/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\118.dir\build.make CMakeFiles/118.dir/build
+.PHONY : 118/fast
+
+#=============================================================================
+# Target rules for targets named 59
+
+# Build rule for target.
+59: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 59
+.PHONY : 59
+
+# fast build rule for target.
+59/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\59.dir\build.make CMakeFiles/59.dir/build
+.PHONY : 59/fast
+
+#=============================================================================
+# Target rules for targets named 904
+
+# Build rule for target.
+904: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 904
+.PHONY : 904
+
+# fast build rule for target.
+904/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\904.dir\build.make CMakeFiles/904.dir/build
+.PHONY : 904/fast
+
+#=============================================================================
+# Target rules for targets named freadwrite
+
+# Build rule for target.
+freadwrite: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 freadwrite
+.PHONY : freadwrite
+
+# fast build rule for target.
+freadwrite/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\freadwrite.dir\build.make CMakeFiles/freadwrite.dir/build
+.PHONY : freadwrite/fast
+
+#=============================================================================
+# Target rules for targets named 76
+
+# Build rule for target.
+76: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 76
+.PHONY : 76
+
+# fast build rule for target.
+76/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\76.dir\build.make CMakeFiles/76.dir/build
+.PHONY : 76/fast
+
+#=============================================================================
+# Target rules for targets named calloc1
+
+# Build rule for target.
+calloc1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 calloc1
+.PHONY : calloc1
+
+# fast build rule for target.
+calloc1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\calloc1.dir\build.make CMakeFiles/calloc1.dir/build
+.PHONY : calloc1/fast
+
+#=============================================================================
+# Target rules for targets named file1
+
+# Build rule for target.
+file1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 file1
+.PHONY : file1
+
+# fast build rule for target.
+file1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\file1.dir\build.make CMakeFiles/file1.dir/build
+.PHONY : file1/fast
+
+#=============================================================================
+# Target rules for targets named fprintfscanf
+
+# Build rule for target.
+fprintfscanf: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fprintfscanf
+.PHONY : fprintfscanf
+
+# fast build rule for target.
+fprintfscanf/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fprintfscanf.dir\build.make CMakeFiles/fprintfscanf.dir/build
+.PHONY : fprintfscanf/fast
+
+#=============================================================================
+# Target rules for targets named bubble
+
+# Build rule for target.
+bubble: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 bubble
+.PHONY : bubble
+
+# fast build rule for target.
+bubble/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bubble.dir\build.make CMakeFiles/bubble.dir/build
+.PHONY : bubble/fast
+
+#=============================================================================
+# Target rules for targets named atoi1
+
+# Build rule for target.
+atoi1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 atoi1
+.PHONY : atoi1
+
+# fast build rule for target.
+atoi1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\atoi1.dir\build.make CMakeFiles/atoi1.dir/build
+.PHONY : atoi1/fast
+
+#=============================================================================
+# Target rules for targets named feof1
+
+# Build rule for target.
+feof1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 feof1
+.PHONY : feof1
+
+# fast build rule for target.
+feof1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\feof1.dir\build.make CMakeFiles/feof1.dir/build
+.PHONY : feof1/fast
+
+#=============================================================================
+# Target rules for targets named exit1
+
+# Build rule for target.
+exit1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 exit1
+.PHONY : exit1
+
+# fast build rule for target.
+exit1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exit1.dir\build.make CMakeFiles/exit1.dir/build
+.PHONY : exit1/fast
+
+#=============================================================================
+# Target rules for targets named fabs1
+
+# Build rule for target.
+fabs1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 fabs1
+.PHONY : fabs1
+
+# fast build rule for target.
+fabs1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fabs1.dir\build.make CMakeFiles/fabs1.dir/build
+.PHONY : fabs1/fast
+
+#=============================================================================
+# Target rules for targets named getsputs
+
+# Build rule for target.
+getsputs: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 getsputs
+.PHONY : getsputs
+
+# fast build rule for target.
+getsputs/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getsputs.dir\build.make CMakeFiles/getsputs.dir/build
+.PHONY : getsputs/fast
+
+#=============================================================================
+# Target rules for targets named assert1
+
+# Build rule for target.
+assert1: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 assert1
+.PHONY : assert1
+
+# fast build rule for target.
+assert1/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assert1.dir\build.make CMakeFiles/assert1.dir/build
+.PHONY : assert1/fast
+
+#=============================================================================
+# Target rules for targets named stderr
+
+# Build rule for target.
+stderr: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 stderr
+.PHONY : stderr
+
+# fast build rule for target.
+stderr/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stderr.dir\build.make CMakeFiles/stderr.dir/build
+.PHONY : stderr/fast
+
 leetcode/leetcode/editor/cn/twoSum.obj: leetcode/leetcode/editor/cn/twoSum.c.obj
 
 .PHONY : leetcode/leetcode/editor/cn/twoSum.obj
@@ -272,6 +545,33 @@ leetcode/leetcode/editor/cn/twoSum.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\twoSum.dir\build.make CMakeFiles/twoSum.dir/leetcode/leetcode/editor/cn/twoSum.c.s
 .PHONY : leetcode/leetcode/editor/cn/twoSum.c.s
 
+leetcode/main/118.obj: leetcode/main/118.c.obj
+
+.PHONY : leetcode/main/118.obj
+
+# target to build an object file
+leetcode/main/118.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\118.dir\build.make CMakeFiles/118.dir/leetcode/main/118.c.obj
+.PHONY : leetcode/main/118.c.obj
+
+leetcode/main/118.i: leetcode/main/118.c.i
+
+.PHONY : leetcode/main/118.i
+
+# target to preprocess a source file
+leetcode/main/118.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\118.dir\build.make CMakeFiles/118.dir/leetcode/main/118.c.i
+.PHONY : leetcode/main/118.c.i
+
+leetcode/main/118.s: leetcode/main/118.c.s
+
+.PHONY : leetcode/main/118.s
+
+# target to generate assembly for a file
+leetcode/main/118.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\118.dir\build.make CMakeFiles/118.dir/leetcode/main/118.c.s
+.PHONY : leetcode/main/118.c.s
+
 leetcode/main/13.obj: leetcode/main/13.c.obj
 
 .PHONY : leetcode/main/13.obj
@@ -298,6 +598,33 @@ leetcode/main/13.s: leetcode/main/13.c.s
 leetcode/main/13.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\13.dir\build.make CMakeFiles/13.dir/leetcode/main/13.c.s
 .PHONY : leetcode/main/13.c.s
+
+leetcode/main/2351.obj: leetcode/main/2351.c.obj
+
+.PHONY : leetcode/main/2351.obj
+
+# target to build an object file
+leetcode/main/2351.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2351.dir\build.make CMakeFiles/2351.dir/leetcode/main/2351.c.obj
+.PHONY : leetcode/main/2351.c.obj
+
+leetcode/main/2351.i: leetcode/main/2351.c.i
+
+.PHONY : leetcode/main/2351.i
+
+# target to preprocess a source file
+leetcode/main/2351.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2351.dir\build.make CMakeFiles/2351.dir/leetcode/main/2351.c.i
+.PHONY : leetcode/main/2351.c.i
+
+leetcode/main/2351.s: leetcode/main/2351.c.s
+
+.PHONY : leetcode/main/2351.s
+
+# target to generate assembly for a file
+leetcode/main/2351.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\2351.dir\build.make CMakeFiles/2351.dir/leetcode/main/2351.c.s
+.PHONY : leetcode/main/2351.c.s
 
 leetcode/main/453.obj: leetcode/main/453.c.obj
 
@@ -333,6 +660,7 @@ leetcode/main/59.obj: leetcode/main/59.c.obj
 # target to build an object file
 leetcode/main/59.c.obj:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Project.dir\build.make CMakeFiles/C_Project.dir/leetcode/main/59.c.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\59.dir\build.make CMakeFiles/59.dir/leetcode/main/59.c.obj
 .PHONY : leetcode/main/59.c.obj
 
 leetcode/main/59.i: leetcode/main/59.c.i
@@ -342,6 +670,7 @@ leetcode/main/59.i: leetcode/main/59.c.i
 # target to preprocess a source file
 leetcode/main/59.c.i:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Project.dir\build.make CMakeFiles/C_Project.dir/leetcode/main/59.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\59.dir\build.make CMakeFiles/59.dir/leetcode/main/59.c.i
 .PHONY : leetcode/main/59.c.i
 
 leetcode/main/59.s: leetcode/main/59.c.s
@@ -351,7 +680,35 @@ leetcode/main/59.s: leetcode/main/59.c.s
 # target to generate assembly for a file
 leetcode/main/59.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Project.dir\build.make CMakeFiles/C_Project.dir/leetcode/main/59.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\59.dir\build.make CMakeFiles/59.dir/leetcode/main/59.c.s
 .PHONY : leetcode/main/59.c.s
+
+leetcode/main/76.obj: leetcode/main/76.c.obj
+
+.PHONY : leetcode/main/76.obj
+
+# target to build an object file
+leetcode/main/76.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\76.dir\build.make CMakeFiles/76.dir/leetcode/main/76.c.obj
+.PHONY : leetcode/main/76.c.obj
+
+leetcode/main/76.i: leetcode/main/76.c.i
+
+.PHONY : leetcode/main/76.i
+
+# target to preprocess a source file
+leetcode/main/76.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\76.dir\build.make CMakeFiles/76.dir/leetcode/main/76.c.i
+.PHONY : leetcode/main/76.c.i
+
+leetcode/main/76.s: leetcode/main/76.c.s
+
+.PHONY : leetcode/main/76.s
+
+# target to generate assembly for a file
+leetcode/main/76.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\76.dir\build.make CMakeFiles/76.dir/leetcode/main/76.c.s
+.PHONY : leetcode/main/76.c.s
 
 leetcode/main/9.obj: leetcode/main/9.c.obj
 
@@ -379,6 +736,33 @@ leetcode/main/9.s: leetcode/main/9.c.s
 leetcode/main/9.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\9.dir\build.make CMakeFiles/9.dir/leetcode/main/9.c.s
 .PHONY : leetcode/main/9.c.s
+
+leetcode/main/904.obj: leetcode/main/904.c.obj
+
+.PHONY : leetcode/main/904.obj
+
+# target to build an object file
+leetcode/main/904.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\904.dir\build.make CMakeFiles/904.dir/leetcode/main/904.c.obj
+.PHONY : leetcode/main/904.c.obj
+
+leetcode/main/904.i: leetcode/main/904.c.i
+
+.PHONY : leetcode/main/904.i
+
+# target to preprocess a source file
+leetcode/main/904.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\904.dir\build.make CMakeFiles/904.dir/leetcode/main/904.c.i
+.PHONY : leetcode/main/904.c.i
+
+leetcode/main/904.s: leetcode/main/904.c.s
+
+.PHONY : leetcode/main/904.s
+
+# target to generate assembly for a file
+leetcode/main/904.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\904.dir\build.make CMakeFiles/904.dir/leetcode/main/904.c.s
+.PHONY : leetcode/main/904.c.s
 
 leetcode/main/erweishuzu.obj: leetcode/main/erweishuzu.c.obj
 
@@ -409,6 +793,60 @@ leetcode/main/erweishuzu.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\C_Project.dir\build.make CMakeFiles/C_Project.dir/leetcode/main/erweishuzu.c.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\erweishuzu.dir\build.make CMakeFiles/erweishuzu.dir/leetcode/main/erweishuzu.c.s
 .PHONY : leetcode/main/erweishuzu.c.s
+
+leetcode/sortAlgorithm/bubble.obj: leetcode/sortAlgorithm/bubble.c.obj
+
+.PHONY : leetcode/sortAlgorithm/bubble.obj
+
+# target to build an object file
+leetcode/sortAlgorithm/bubble.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bubble.dir\build.make CMakeFiles/bubble.dir/leetcode/sortAlgorithm/bubble.c.obj
+.PHONY : leetcode/sortAlgorithm/bubble.c.obj
+
+leetcode/sortAlgorithm/bubble.i: leetcode/sortAlgorithm/bubble.c.i
+
+.PHONY : leetcode/sortAlgorithm/bubble.i
+
+# target to preprocess a source file
+leetcode/sortAlgorithm/bubble.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bubble.dir\build.make CMakeFiles/bubble.dir/leetcode/sortAlgorithm/bubble.c.i
+.PHONY : leetcode/sortAlgorithm/bubble.c.i
+
+leetcode/sortAlgorithm/bubble.s: leetcode/sortAlgorithm/bubble.c.s
+
+.PHONY : leetcode/sortAlgorithm/bubble.s
+
+# target to generate assembly for a file
+leetcode/sortAlgorithm/bubble.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\bubble.dir\build.make CMakeFiles/bubble.dir/leetcode/sortAlgorithm/bubble.c.s
+.PHONY : leetcode/sortAlgorithm/bubble.c.s
+
+leetcode/sortAlgorithm/cocktail.obj: leetcode/sortAlgorithm/cocktail.c.obj
+
+.PHONY : leetcode/sortAlgorithm/cocktail.obj
+
+# target to build an object file
+leetcode/sortAlgorithm/cocktail.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cocktail.dir\build.make CMakeFiles/cocktail.dir/leetcode/sortAlgorithm/cocktail.c.obj
+.PHONY : leetcode/sortAlgorithm/cocktail.c.obj
+
+leetcode/sortAlgorithm/cocktail.i: leetcode/sortAlgorithm/cocktail.c.i
+
+.PHONY : leetcode/sortAlgorithm/cocktail.i
+
+# target to preprocess a source file
+leetcode/sortAlgorithm/cocktail.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cocktail.dir\build.make CMakeFiles/cocktail.dir/leetcode/sortAlgorithm/cocktail.c.i
+.PHONY : leetcode/sortAlgorithm/cocktail.c.i
+
+leetcode/sortAlgorithm/cocktail.s: leetcode/sortAlgorithm/cocktail.c.s
+
+.PHONY : leetcode/sortAlgorithm/cocktail.s
+
+# target to generate assembly for a file
+leetcode/sortAlgorithm/cocktail.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\cocktail.dir\build.make CMakeFiles/cocktail.dir/leetcode/sortAlgorithm/cocktail.c.s
+.PHONY : leetcode/sortAlgorithm/cocktail.c.s
 
 leetcode/sortAlgorithm/quick.obj: leetcode/sortAlgorithm/quick.c.obj
 
@@ -518,6 +956,384 @@ runoob/shuzuzhizhen.c.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\shuzuzhizhen.dir\build.make CMakeFiles/shuzuzhizhen.dir/runoob/shuzuzhizhen.c.s
 .PHONY : runoob/shuzuzhizhen.c.s
 
+xiaojiayu/assert1.obj: xiaojiayu/assert1.c.obj
+
+.PHONY : xiaojiayu/assert1.obj
+
+# target to build an object file
+xiaojiayu/assert1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assert1.dir\build.make CMakeFiles/assert1.dir/xiaojiayu/assert1.c.obj
+.PHONY : xiaojiayu/assert1.c.obj
+
+xiaojiayu/assert1.i: xiaojiayu/assert1.c.i
+
+.PHONY : xiaojiayu/assert1.i
+
+# target to preprocess a source file
+xiaojiayu/assert1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assert1.dir\build.make CMakeFiles/assert1.dir/xiaojiayu/assert1.c.i
+.PHONY : xiaojiayu/assert1.c.i
+
+xiaojiayu/assert1.s: xiaojiayu/assert1.c.s
+
+.PHONY : xiaojiayu/assert1.s
+
+# target to generate assembly for a file
+xiaojiayu/assert1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\assert1.dir\build.make CMakeFiles/assert1.dir/xiaojiayu/assert1.c.s
+.PHONY : xiaojiayu/assert1.c.s
+
+xiaojiayu/wendang/atoi1.obj: xiaojiayu/wendang/atoi1.c.obj
+
+.PHONY : xiaojiayu/wendang/atoi1.obj
+
+# target to build an object file
+xiaojiayu/wendang/atoi1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\atoi1.dir\build.make CMakeFiles/atoi1.dir/xiaojiayu/wendang/atoi1.c.obj
+.PHONY : xiaojiayu/wendang/atoi1.c.obj
+
+xiaojiayu/wendang/atoi1.i: xiaojiayu/wendang/atoi1.c.i
+
+.PHONY : xiaojiayu/wendang/atoi1.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/atoi1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\atoi1.dir\build.make CMakeFiles/atoi1.dir/xiaojiayu/wendang/atoi1.c.i
+.PHONY : xiaojiayu/wendang/atoi1.c.i
+
+xiaojiayu/wendang/atoi1.s: xiaojiayu/wendang/atoi1.c.s
+
+.PHONY : xiaojiayu/wendang/atoi1.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/atoi1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\atoi1.dir\build.make CMakeFiles/atoi1.dir/xiaojiayu/wendang/atoi1.c.s
+.PHONY : xiaojiayu/wendang/atoi1.c.s
+
+xiaojiayu/wendang/calloc1.obj: xiaojiayu/wendang/calloc1.c.obj
+
+.PHONY : xiaojiayu/wendang/calloc1.obj
+
+# target to build an object file
+xiaojiayu/wendang/calloc1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\calloc1.dir\build.make CMakeFiles/calloc1.dir/xiaojiayu/wendang/calloc1.c.obj
+.PHONY : xiaojiayu/wendang/calloc1.c.obj
+
+xiaojiayu/wendang/calloc1.i: xiaojiayu/wendang/calloc1.c.i
+
+.PHONY : xiaojiayu/wendang/calloc1.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/calloc1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\calloc1.dir\build.make CMakeFiles/calloc1.dir/xiaojiayu/wendang/calloc1.c.i
+.PHONY : xiaojiayu/wendang/calloc1.c.i
+
+xiaojiayu/wendang/calloc1.s: xiaojiayu/wendang/calloc1.c.s
+
+.PHONY : xiaojiayu/wendang/calloc1.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/calloc1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\calloc1.dir\build.make CMakeFiles/calloc1.dir/xiaojiayu/wendang/calloc1.c.s
+.PHONY : xiaojiayu/wendang/calloc1.c.s
+
+xiaojiayu/wendang/clearerr1.obj: xiaojiayu/wendang/clearerr1.c.obj
+
+.PHONY : xiaojiayu/wendang/clearerr1.obj
+
+# target to build an object file
+xiaojiayu/wendang/clearerr1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\clearerr1.dir\build.make CMakeFiles/clearerr1.dir/xiaojiayu/wendang/clearerr1.c.obj
+.PHONY : xiaojiayu/wendang/clearerr1.c.obj
+
+xiaojiayu/wendang/clearerr1.i: xiaojiayu/wendang/clearerr1.c.i
+
+.PHONY : xiaojiayu/wendang/clearerr1.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/clearerr1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\clearerr1.dir\build.make CMakeFiles/clearerr1.dir/xiaojiayu/wendang/clearerr1.c.i
+.PHONY : xiaojiayu/wendang/clearerr1.c.i
+
+xiaojiayu/wendang/clearerr1.s: xiaojiayu/wendang/clearerr1.c.s
+
+.PHONY : xiaojiayu/wendang/clearerr1.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/clearerr1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\clearerr1.dir\build.make CMakeFiles/clearerr1.dir/xiaojiayu/wendang/clearerr1.c.s
+.PHONY : xiaojiayu/wendang/clearerr1.c.s
+
+xiaojiayu/wendang/exit1.obj: xiaojiayu/wendang/exit1.c.obj
+
+.PHONY : xiaojiayu/wendang/exit1.obj
+
+# target to build an object file
+xiaojiayu/wendang/exit1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exit1.dir\build.make CMakeFiles/exit1.dir/xiaojiayu/wendang/exit1.c.obj
+.PHONY : xiaojiayu/wendang/exit1.c.obj
+
+xiaojiayu/wendang/exit1.i: xiaojiayu/wendang/exit1.c.i
+
+.PHONY : xiaojiayu/wendang/exit1.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/exit1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exit1.dir\build.make CMakeFiles/exit1.dir/xiaojiayu/wendang/exit1.c.i
+.PHONY : xiaojiayu/wendang/exit1.c.i
+
+xiaojiayu/wendang/exit1.s: xiaojiayu/wendang/exit1.c.s
+
+.PHONY : xiaojiayu/wendang/exit1.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/exit1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\exit1.dir\build.make CMakeFiles/exit1.dir/xiaojiayu/wendang/exit1.c.s
+.PHONY : xiaojiayu/wendang/exit1.c.s
+
+xiaojiayu/wendang/fabs1.obj: xiaojiayu/wendang/fabs1.c.obj
+
+.PHONY : xiaojiayu/wendang/fabs1.obj
+
+# target to build an object file
+xiaojiayu/wendang/fabs1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fabs1.dir\build.make CMakeFiles/fabs1.dir/xiaojiayu/wendang/fabs1.c.obj
+.PHONY : xiaojiayu/wendang/fabs1.c.obj
+
+xiaojiayu/wendang/fabs1.i: xiaojiayu/wendang/fabs1.c.i
+
+.PHONY : xiaojiayu/wendang/fabs1.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/fabs1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fabs1.dir\build.make CMakeFiles/fabs1.dir/xiaojiayu/wendang/fabs1.c.i
+.PHONY : xiaojiayu/wendang/fabs1.c.i
+
+xiaojiayu/wendang/fabs1.s: xiaojiayu/wendang/fabs1.c.s
+
+.PHONY : xiaojiayu/wendang/fabs1.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/fabs1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fabs1.dir\build.make CMakeFiles/fabs1.dir/xiaojiayu/wendang/fabs1.c.s
+.PHONY : xiaojiayu/wendang/fabs1.c.s
+
+xiaojiayu/wendang/feof1.obj: xiaojiayu/wendang/feof1.c.obj
+
+.PHONY : xiaojiayu/wendang/feof1.obj
+
+# target to build an object file
+xiaojiayu/wendang/feof1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\feof1.dir\build.make CMakeFiles/feof1.dir/xiaojiayu/wendang/feof1.c.obj
+.PHONY : xiaojiayu/wendang/feof1.c.obj
+
+xiaojiayu/wendang/feof1.i: xiaojiayu/wendang/feof1.c.i
+
+.PHONY : xiaojiayu/wendang/feof1.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/feof1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\feof1.dir\build.make CMakeFiles/feof1.dir/xiaojiayu/wendang/feof1.c.i
+.PHONY : xiaojiayu/wendang/feof1.c.i
+
+xiaojiayu/wendang/feof1.s: xiaojiayu/wendang/feof1.c.s
+
+.PHONY : xiaojiayu/wendang/feof1.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/feof1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\feof1.dir\build.make CMakeFiles/feof1.dir/xiaojiayu/wendang/feof1.c.s
+.PHONY : xiaojiayu/wendang/feof1.c.s
+
+xiaojiayu/wendang/fopen1.obj: xiaojiayu/wendang/fopen1.c.obj
+
+.PHONY : xiaojiayu/wendang/fopen1.obj
+
+# target to build an object file
+xiaojiayu/wendang/fopen1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fopen1.dir\build.make CMakeFiles/fopen1.dir/xiaojiayu/wendang/fopen1.c.obj
+.PHONY : xiaojiayu/wendang/fopen1.c.obj
+
+xiaojiayu/wendang/fopen1.i: xiaojiayu/wendang/fopen1.c.i
+
+.PHONY : xiaojiayu/wendang/fopen1.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/fopen1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fopen1.dir\build.make CMakeFiles/fopen1.dir/xiaojiayu/wendang/fopen1.c.i
+.PHONY : xiaojiayu/wendang/fopen1.c.i
+
+xiaojiayu/wendang/fopen1.s: xiaojiayu/wendang/fopen1.c.s
+
+.PHONY : xiaojiayu/wendang/fopen1.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/fopen1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fopen1.dir\build.make CMakeFiles/fopen1.dir/xiaojiayu/wendang/fopen1.c.s
+.PHONY : xiaojiayu/wendang/fopen1.c.s
+
+xiaojiayu/wendang/fprintfscanf.obj: xiaojiayu/wendang/fprintfscanf.c.obj
+
+.PHONY : xiaojiayu/wendang/fprintfscanf.obj
+
+# target to build an object file
+xiaojiayu/wendang/fprintfscanf.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fprintfscanf.dir\build.make CMakeFiles/fprintfscanf.dir/xiaojiayu/wendang/fprintfscanf.c.obj
+.PHONY : xiaojiayu/wendang/fprintfscanf.c.obj
+
+xiaojiayu/wendang/fprintfscanf.i: xiaojiayu/wendang/fprintfscanf.c.i
+
+.PHONY : xiaojiayu/wendang/fprintfscanf.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/fprintfscanf.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fprintfscanf.dir\build.make CMakeFiles/fprintfscanf.dir/xiaojiayu/wendang/fprintfscanf.c.i
+.PHONY : xiaojiayu/wendang/fprintfscanf.c.i
+
+xiaojiayu/wendang/fprintfscanf.s: xiaojiayu/wendang/fprintfscanf.c.s
+
+.PHONY : xiaojiayu/wendang/fprintfscanf.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/fprintfscanf.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\fprintfscanf.dir\build.make CMakeFiles/fprintfscanf.dir/xiaojiayu/wendang/fprintfscanf.c.s
+.PHONY : xiaojiayu/wendang/fprintfscanf.c.s
+
+xiaojiayu/wendang/freadwrite.obj: xiaojiayu/wendang/freadwrite.c.obj
+
+.PHONY : xiaojiayu/wendang/freadwrite.obj
+
+# target to build an object file
+xiaojiayu/wendang/freadwrite.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\freadwrite.dir\build.make CMakeFiles/freadwrite.dir/xiaojiayu/wendang/freadwrite.c.obj
+.PHONY : xiaojiayu/wendang/freadwrite.c.obj
+
+xiaojiayu/wendang/freadwrite.i: xiaojiayu/wendang/freadwrite.c.i
+
+.PHONY : xiaojiayu/wendang/freadwrite.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/freadwrite.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\freadwrite.dir\build.make CMakeFiles/freadwrite.dir/xiaojiayu/wendang/freadwrite.c.i
+.PHONY : xiaojiayu/wendang/freadwrite.c.i
+
+xiaojiayu/wendang/freadwrite.s: xiaojiayu/wendang/freadwrite.c.s
+
+.PHONY : xiaojiayu/wendang/freadwrite.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/freadwrite.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\freadwrite.dir\build.make CMakeFiles/freadwrite.dir/xiaojiayu/wendang/freadwrite.c.s
+.PHONY : xiaojiayu/wendang/freadwrite.c.s
+
+xiaojiayu/wendang/getputc.obj: xiaojiayu/wendang/getputc.c.obj
+
+.PHONY : xiaojiayu/wendang/getputc.obj
+
+# target to build an object file
+xiaojiayu/wendang/getputc.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getputc.dir\build.make CMakeFiles/getputc.dir/xiaojiayu/wendang/getputc.c.obj
+.PHONY : xiaojiayu/wendang/getputc.c.obj
+
+xiaojiayu/wendang/getputc.i: xiaojiayu/wendang/getputc.c.i
+
+.PHONY : xiaojiayu/wendang/getputc.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/getputc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getputc.dir\build.make CMakeFiles/getputc.dir/xiaojiayu/wendang/getputc.c.i
+.PHONY : xiaojiayu/wendang/getputc.c.i
+
+xiaojiayu/wendang/getputc.s: xiaojiayu/wendang/getputc.c.s
+
+.PHONY : xiaojiayu/wendang/getputc.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/getputc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getputc.dir\build.make CMakeFiles/getputc.dir/xiaojiayu/wendang/getputc.c.s
+.PHONY : xiaojiayu/wendang/getputc.c.s
+
+xiaojiayu/wendang/getsputs.obj: xiaojiayu/wendang/getsputs.c.obj
+
+.PHONY : xiaojiayu/wendang/getsputs.obj
+
+# target to build an object file
+xiaojiayu/wendang/getsputs.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getsputs.dir\build.make CMakeFiles/getsputs.dir/xiaojiayu/wendang/getsputs.c.obj
+.PHONY : xiaojiayu/wendang/getsputs.c.obj
+
+xiaojiayu/wendang/getsputs.i: xiaojiayu/wendang/getsputs.c.i
+
+.PHONY : xiaojiayu/wendang/getsputs.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/getsputs.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getsputs.dir\build.make CMakeFiles/getsputs.dir/xiaojiayu/wendang/getsputs.c.i
+.PHONY : xiaojiayu/wendang/getsputs.c.i
+
+xiaojiayu/wendang/getsputs.s: xiaojiayu/wendang/getsputs.c.s
+
+.PHONY : xiaojiayu/wendang/getsputs.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/getsputs.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\getsputs.dir\build.make CMakeFiles/getsputs.dir/xiaojiayu/wendang/getsputs.c.s
+.PHONY : xiaojiayu/wendang/getsputs.c.s
+
+xiaojiayu/wendang/stderr.obj: xiaojiayu/wendang/stderr.c.obj
+
+.PHONY : xiaojiayu/wendang/stderr.obj
+
+# target to build an object file
+xiaojiayu/wendang/stderr.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stderr.dir\build.make CMakeFiles/stderr.dir/xiaojiayu/wendang/stderr.c.obj
+.PHONY : xiaojiayu/wendang/stderr.c.obj
+
+xiaojiayu/wendang/stderr.i: xiaojiayu/wendang/stderr.c.i
+
+.PHONY : xiaojiayu/wendang/stderr.i
+
+# target to preprocess a source file
+xiaojiayu/wendang/stderr.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stderr.dir\build.make CMakeFiles/stderr.dir/xiaojiayu/wendang/stderr.c.i
+.PHONY : xiaojiayu/wendang/stderr.c.i
+
+xiaojiayu/wendang/stderr.s: xiaojiayu/wendang/stderr.c.s
+
+.PHONY : xiaojiayu/wendang/stderr.s
+
+# target to generate assembly for a file
+xiaojiayu/wendang/stderr.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\stderr.dir\build.make CMakeFiles/stderr.dir/xiaojiayu/wendang/stderr.c.s
+.PHONY : xiaojiayu/wendang/stderr.c.s
+
+xiaojiayu/wenjian/file1.obj: xiaojiayu/wenjian/file1.c.obj
+
+.PHONY : xiaojiayu/wenjian/file1.obj
+
+# target to build an object file
+xiaojiayu/wenjian/file1.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\file1.dir\build.make CMakeFiles/file1.dir/xiaojiayu/wenjian/file1.c.obj
+.PHONY : xiaojiayu/wenjian/file1.c.obj
+
+xiaojiayu/wenjian/file1.i: xiaojiayu/wenjian/file1.c.i
+
+.PHONY : xiaojiayu/wenjian/file1.i
+
+# target to preprocess a source file
+xiaojiayu/wenjian/file1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\file1.dir\build.make CMakeFiles/file1.dir/xiaojiayu/wenjian/file1.c.i
+.PHONY : xiaojiayu/wenjian/file1.c.i
+
+xiaojiayu/wenjian/file1.s: xiaojiayu/wenjian/file1.c.s
+
+.PHONY : xiaojiayu/wenjian/file1.s
+
+# target to generate assembly for a file
+xiaojiayu/wenjian/file1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\file1.dir\build.make CMakeFiles/file1.dir/xiaojiayu/wenjian/file1.c.s
+.PHONY : xiaojiayu/wenjian/file1.c.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -526,33 +1342,72 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... 118
 	@echo ... 13
+	@echo ... 2351
 	@echo ... 453
+	@echo ... 59
+	@echo ... 76
 	@echo ... 9
+	@echo ... 904
 	@echo ... C_Project
+	@echo ... assert1
+	@echo ... atoi1
+	@echo ... bubble
+	@echo ... calloc1
+	@echo ... clearerr1
+	@echo ... cocktail
 	@echo ... erwei
 	@echo ... erweishuzu
+	@echo ... exit1
+	@echo ... fabs1
+	@echo ... feof1
+	@echo ... file1
+	@echo ... fopen1
+	@echo ... fprintfscanf
+	@echo ... freadwrite
+	@echo ... getputc
+	@echo ... getsputs
 	@echo ... quick
 	@echo ... shuzuzhizhen
+	@echo ... stderr
 	@echo ... twoSum
 	@echo ... leetcode/leetcode/editor/cn/twoSum.obj
 	@echo ... leetcode/leetcode/editor/cn/twoSum.i
 	@echo ... leetcode/leetcode/editor/cn/twoSum.s
+	@echo ... leetcode/main/118.obj
+	@echo ... leetcode/main/118.i
+	@echo ... leetcode/main/118.s
 	@echo ... leetcode/main/13.obj
 	@echo ... leetcode/main/13.i
 	@echo ... leetcode/main/13.s
+	@echo ... leetcode/main/2351.obj
+	@echo ... leetcode/main/2351.i
+	@echo ... leetcode/main/2351.s
 	@echo ... leetcode/main/453.obj
 	@echo ... leetcode/main/453.i
 	@echo ... leetcode/main/453.s
 	@echo ... leetcode/main/59.obj
 	@echo ... leetcode/main/59.i
 	@echo ... leetcode/main/59.s
+	@echo ... leetcode/main/76.obj
+	@echo ... leetcode/main/76.i
+	@echo ... leetcode/main/76.s
 	@echo ... leetcode/main/9.obj
 	@echo ... leetcode/main/9.i
 	@echo ... leetcode/main/9.s
+	@echo ... leetcode/main/904.obj
+	@echo ... leetcode/main/904.i
+	@echo ... leetcode/main/904.s
 	@echo ... leetcode/main/erweishuzu.obj
 	@echo ... leetcode/main/erweishuzu.i
 	@echo ... leetcode/main/erweishuzu.s
+	@echo ... leetcode/sortAlgorithm/bubble.obj
+	@echo ... leetcode/sortAlgorithm/bubble.i
+	@echo ... leetcode/sortAlgorithm/bubble.s
+	@echo ... leetcode/sortAlgorithm/cocktail.obj
+	@echo ... leetcode/sortAlgorithm/cocktail.i
+	@echo ... leetcode/sortAlgorithm/cocktail.s
 	@echo ... leetcode/sortAlgorithm/quick.obj
 	@echo ... leetcode/sortAlgorithm/quick.i
 	@echo ... leetcode/sortAlgorithm/quick.s
@@ -565,6 +1420,48 @@ help:
 	@echo ... runoob/shuzuzhizhen.obj
 	@echo ... runoob/shuzuzhizhen.i
 	@echo ... runoob/shuzuzhizhen.s
+	@echo ... xiaojiayu/assert1.obj
+	@echo ... xiaojiayu/assert1.i
+	@echo ... xiaojiayu/assert1.s
+	@echo ... xiaojiayu/wendang/atoi1.obj
+	@echo ... xiaojiayu/wendang/atoi1.i
+	@echo ... xiaojiayu/wendang/atoi1.s
+	@echo ... xiaojiayu/wendang/calloc1.obj
+	@echo ... xiaojiayu/wendang/calloc1.i
+	@echo ... xiaojiayu/wendang/calloc1.s
+	@echo ... xiaojiayu/wendang/clearerr1.obj
+	@echo ... xiaojiayu/wendang/clearerr1.i
+	@echo ... xiaojiayu/wendang/clearerr1.s
+	@echo ... xiaojiayu/wendang/exit1.obj
+	@echo ... xiaojiayu/wendang/exit1.i
+	@echo ... xiaojiayu/wendang/exit1.s
+	@echo ... xiaojiayu/wendang/fabs1.obj
+	@echo ... xiaojiayu/wendang/fabs1.i
+	@echo ... xiaojiayu/wendang/fabs1.s
+	@echo ... xiaojiayu/wendang/feof1.obj
+	@echo ... xiaojiayu/wendang/feof1.i
+	@echo ... xiaojiayu/wendang/feof1.s
+	@echo ... xiaojiayu/wendang/fopen1.obj
+	@echo ... xiaojiayu/wendang/fopen1.i
+	@echo ... xiaojiayu/wendang/fopen1.s
+	@echo ... xiaojiayu/wendang/fprintfscanf.obj
+	@echo ... xiaojiayu/wendang/fprintfscanf.i
+	@echo ... xiaojiayu/wendang/fprintfscanf.s
+	@echo ... xiaojiayu/wendang/freadwrite.obj
+	@echo ... xiaojiayu/wendang/freadwrite.i
+	@echo ... xiaojiayu/wendang/freadwrite.s
+	@echo ... xiaojiayu/wendang/getputc.obj
+	@echo ... xiaojiayu/wendang/getputc.i
+	@echo ... xiaojiayu/wendang/getputc.s
+	@echo ... xiaojiayu/wendang/getsputs.obj
+	@echo ... xiaojiayu/wendang/getsputs.i
+	@echo ... xiaojiayu/wendang/getsputs.s
+	@echo ... xiaojiayu/wendang/stderr.obj
+	@echo ... xiaojiayu/wendang/stderr.i
+	@echo ... xiaojiayu/wendang/stderr.s
+	@echo ... xiaojiayu/wenjian/file1.obj
+	@echo ... xiaojiayu/wenjian/file1.i
+	@echo ... xiaojiayu/wenjian/file1.s
 .PHONY : help
 
 
